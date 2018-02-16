@@ -1,3 +1,30 @@
-p {
+html {
+    background-color: #46B29D;
+}
+
+body {
+    background-color: rgba(0,0,0,0) !important;
+}
+
+p.text-damion {
     font-family: 'Damion', cursive !important;
+    color: #F0CA4D;
+}
+
+.text-white {
+    color: white;
+}
+
+.content {
+    background-color: #324D5C;
+}
+
+.btn-orange {
+    background-color: #E37B40;
+}
+
+button.icon {
+  margin-left: .5em;
+  margin-right: .5em;
+  color: white !important;
 }
